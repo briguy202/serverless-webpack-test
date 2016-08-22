@@ -1,0 +1,8 @@
+{
+  "name": "serverless-webpack-test",
+  "custom": {},
+  "plugins": [
+    "serverless-runtime-webpack",
+    "serverless-serve"
+  ]
+}
